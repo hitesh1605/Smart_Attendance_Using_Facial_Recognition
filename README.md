@@ -53,5 +53,5 @@ SmartAttendance/
 ├── recognize_faces.py              # Script to recognize and mark attendance
 └── README.md                       # You're here :)
 ##🧑‍💻 Author  
-Srinivas Gaddam  
-gmail:gaddamsrinivas011@gmail.com
+-Hitesh Choudhary  
+gmail:sirvihitesh8@gmail.com
