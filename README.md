@@ -10,6 +10,7 @@ This project is a Python-based **Smart Attendance System** that uses **Facial Re
 
 ### 🔍 Face Recognition & Attendance
 ![Recognition](assets/screenshots/2.png)
+
 ![Face Recognition Demo](assets/screenshots/3.png)
 
 
