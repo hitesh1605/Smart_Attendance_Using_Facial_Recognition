@@ -1,6 +1,7 @@
 # Smart Attendance Using Facial Recognition 🎯
 
 This project is a Python-based **Smart Attendance System** that uses **Facial Recognition** to automate and manage attendance securely and efficiently.
+
 ###📸 Execution Screenshots  
 ### 🎥 Face Capturing  
 ![Capture](assets/screenshots/0.png)
@@ -15,7 +16,7 @@ This project is a Python-based **Smart Attendance System** that uses **Facial Re
 
 
 
-## 📌 Features
+## 📌Key Features
 
 - 🎥 Capture face images using a webcam
 - 🧠 Encode and store facial features
@@ -48,9 +49,8 @@ This project is a Python-based **Smart Attendance System** that uses **Facial Re
 - pandas
 
 ---
-## 📂 Project Structure
-## 📂 Project Structure
 
+## 📂 Project Structure
 ```
 Smart-Attendance-Using-Facial-Recognition/  
 
